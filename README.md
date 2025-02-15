@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI virtual assistant**
 
-- 🌱 I’m currently learning **Django, Flask**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **computer vision projects**
 
