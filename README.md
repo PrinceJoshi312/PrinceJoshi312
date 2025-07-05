@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Prince Joshi</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princejoshi312&label=Profile%20views&color=0e75b6&style=flat" alt="princejoshi312" /> </p>
-
 <p align="left"> <a href="https://twitter.com/princejosh64109" target="blank"><img src="https://img.shields.io/twitter/follow/princejosh64109?logo=twitter&style=for-the-badge" alt="princejosh64109" /></a> </p>
 
 - 🔭 I’m currently working on **AI virtual assistant**
