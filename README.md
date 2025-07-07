@@ -42,9 +42,9 @@
   
   <!-- New Tools -->
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://airflow.apache.org/docs/docker-stack/index.html" alt="apache-airflow" width="40" height="40"/> </a>
-  <a href="https://www.astronomer.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/36624811?s=200&v=4" alt="astronomer" width="40" height="40"/> </a>
-  <a href="https://github.com/facebookresearch/faiss" target="_blank"> <img src="https://www.astronomer.io/" alt="vectordb" width="40" height="40"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://imgs.search.brave.com/WpRckFs3mpNNUFk7hF3FM7idO5Un2UiDJ-SjDaELJtA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWUxODUyYmUy/ZTEyYmIwZjVjMDY3/YWJiOWYwOTEwMTQ5/ZmQ3NDc3YTFmZDFi/YWE4YmE5MjM4NWJl/MGM4NjJlYy9haXJm/bG93LmFwYWNoZS5v/cmcv" alt="apache-airflow" width="40" height="40"/> </a>
+  <a href="https://www.astronomer.io/" target="_blank"> <img src="https://imgs.search.brave.com/bv-FO_Io0CpBCZY9CHToD2vVqAbNzWWlNDnS3yP1ySU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjBmYmRhODFj/NGY3MzZiYTkzMGRm/MDg3OTI3YjJiOGI2/Y2QwYTRjYzRjYTlm/ZTA3NjczNjZjMDdl/MjE2NWQ3MC93d3cu/YXN0cm9ub21lci5p/by8" alt="astronomer" width="40" height="40"/> </a>
+  <a href="https://github.com/facebookresearch/faiss" target="_blank"> <img src="https://engineering.fb.com/wp-content/uploads/2017/03/faiss_logo.png" alt="vectordb" width="40" height="40"/> </a>
 </p>
 
 
