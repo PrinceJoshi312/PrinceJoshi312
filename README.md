@@ -42,9 +42,9 @@
   
   <!-- New Tools -->
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/AirflowLogo.png" alt="apache-airflow" width="40" height="40"/> </a>
+  <a href="https://airflow.apache.org/" target="_blank"> <img src="https://airflow.apache.org/docs/docker-stack/index.html" alt="apache-airflow" width="40" height="40"/> </a>
   <a href="https://www.astronomer.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/36624811?s=200&v=4" alt="astronomer" width="40" height="40"/> </a>
-  <a href="https://github.com/facebookresearch/faiss" target="_blank"> <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" alt="vectordb" width="40" height="40"/> </a>
+  <a href="https://github.com/facebookresearch/faiss" target="_blank"> <img src="https://www.astronomer.io/" alt="vectordb" width="40" height="40"/> </a>
 </p>
 
 
