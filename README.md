@@ -27,7 +27,7 @@
 - Model optimization & inference pipelines  
 
 ---
-<h3 align="left">Connect with me:</h3><br>
+<h3 align="left">Connect with me:</h3>
 
 <!-- Social icons section -->
 <p align="center">
@@ -127,7 +127,7 @@
 
 ## 📊 Isometric Commit Calendar
 
-![](https://github.com/princejoshi312/github-readme-3d-contrib/blob/main/profile-green-animate.svg)
+![](https://raw.githubusercontent.com/princejoshi312/github-readme-3d-contrib/main/profile-3d-contrib/profile-green.svg)
 
 
 ---
