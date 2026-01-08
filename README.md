@@ -124,16 +124,10 @@
 
 ## 📈 GitHub Activity & Contributions
 </br>
+<h3> 📊 GitHub 3D Contribution Graph</h3>
 
-## 📊 Isometric Commit Calendar
-
-![](https://raw.githubusercontent.com/princejoshi312/github-readme-3d-contrib/main/profile-3d-contrib/profile-green.svg)
-
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
-### 🐍 Contribution Snake (Clean & Modern)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
