@@ -1,1 +1,29 @@
+name: Profile-3D-Contrib
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:     # manual run button
+
+permissions:
+  contents: write        # REQUIRED to commit files
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: PrinceJoshi312
+          output_path: profile-3d-contrib
+
+      - name: Commit and push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update 3D contribution graph"
+          add: "profile-3d-contrib"
