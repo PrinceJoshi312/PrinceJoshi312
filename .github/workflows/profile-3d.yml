@@ -3,7 +3,7 @@ name: Profile-3D-Contrib
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+  - cron: "0 0 */2 * *"
 
 permissions:
   contents: write
