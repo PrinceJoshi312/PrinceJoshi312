@@ -1,4 +1,9 @@
-[![MasterHead](https://pitcases.org/wp-content/uploads/2023/01/DATA_AI_HEADER_ANI.gif)](https://princejoshi312.io)
+<p align="center">
+  <a href="https://princejoshi312.io">
+    <img src="images/banner_Readme.gif" width="100%" />
+  </a>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Prince Joshi</h1>
 <h3 align="center">A passionate ML Developer from India</h3>
