@@ -33,7 +33,7 @@
 <p align="center">
   <a href="https://kaggle.com/princejoshi18"><img width="70px"  alt="kaggle" title="kaggle" src="https://github.com/PrinceJoshi312/PrinceJoshi312/blob/main/images/site-logo.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/princejoshi312"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/PrinceJoshi312/PrinceJoshi312/blob/main/images/linkedin-icon-linkedin-social-media-logo-free-png.webp"/></a>
+  <a href="https://www.linkedin.com/in/princejoshi312"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/PrinceJoshi312/PrinceJoshi312/blob/main/images/LI-In-Bug.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/princejosh64109"><img width="40px" alt="Twitter" title="Twitter" src="https://github.com/PrinceJoshi312/PrinceJoshi312/blob/main/images/64cebe1d31f50e161e4c825a_X-logo-transparent-white-twitter.webp"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
