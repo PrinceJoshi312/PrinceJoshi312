@@ -21,7 +21,7 @@
 - 🌱 Actively learning **Generative AI, LLM systems & RAG**
 - 👯 Open to collaborating on **AI / ML & data-driven projects**
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
-- 📫 Reach me at **princejoshij736@gmail.com**
+- 📫 Reach me at **princejoshi736official@gmail.com**
 
 ---
 
