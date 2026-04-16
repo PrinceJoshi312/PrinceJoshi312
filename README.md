@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building an **AI Virtual Assistant**
+- 🔭 Currently building an **NeuroStack a open-source LLM based virtual assistant**
 - 🌱 Actively learning **Generative AI, LLM systems & RAG**
 - 👯 Open to collaborating on **AI / ML & data-driven projects**
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
@@ -28,7 +28,7 @@
 ### 🧠 Current AI Focus
 - LLM orchestration & agent workflows  
 - Retrieval-Augmented Generation (RAG)  
-- Desktop AI agents (Electron + FastAPI)  
+- MCP and Agentic AI 
 - Model optimization & inference pipelines  
 
 ---
